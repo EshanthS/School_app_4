@@ -1,0 +1,32 @@
+#name_of_school {
+    color:white;
+    background-color:red ;
+}
+#video {
+    width:100%;
+    height:500px;
+    border:none;
+}
+.school_life_div{
+    border:1px solid red;
+}
+school_life_div img {
+    width:100%;
+}
+school_life_div h5,school_life_div p{
+     margin:20px; 
+}
+.achievement_text span{
+    color:orange;
+}
+
+.movie-head{
+    font-size: 20px;
+    padding:6px 22px ;
+    border-radius:10px ;
+    margin-bottom: 15px;
+
+}
+.movie-head i{
+    float:right;
+}
